@@ -3,11 +3,15 @@
 [![Rails 8.1+](https://img.shields.io/badge/rails-8.1%2B-red.svg)](https://rubyonrails.org)
 [![MacronCMS v5+](https://img.shields.io/badge/macron--cms-5.0%2B-emerald.svg)](https://github.com/macron1-automations/macron-cms)
 [![MCP Compatible](https://img.shields.io/badge/MCP-macron--cms--mcp-purple.svg)](https://github.com/macron1-automations/macron-cms-mcp)
+[![Live Demo](https://img.shields.io/badge/live_demo-blog.macron1.io-4F46E5.svg)](https://blog.macron1.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A self-contained **Master Prompt** ([`PROMPT.md`](PROMPT.md)) for agentic AI coding harnesses—such as **Google Antigravity**, **Claude Code**, and **Cursor**—that interviews you and builds a tailored, production-ready **Ruby on Rails 8.1+** host application for the [**MacronCMS**](https://github.com/macron1-automations/macron-cms) block engine.
 
 Instead of spending dozens of iterations wiring up content schemas, ViewComponent widgets, on-demand WebGL/KaTeX hydration, zero-CLS Hotwire streaming, Russian-doll caching, Propshaft minification, WebGL CDN CORS headers, and deployment configs by hand, paste [`PROMPT.md`](PROMPT.md) into a fresh workspace and let your coding agent interview, plan, build, and verify the entire platform.
+
+> [!TIP]
+> **See it in action:** Check out a live production implementation running at **[blog.macron1.io](https://blog.macron1.io/)** to experience the zero-CLS magazine layout, interactive 3D Three.js widgets, on-demand KaTeX mathematical typesetting, and Turbo-driven hydration firsthand.
 
 ---
 
