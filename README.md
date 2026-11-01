@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/logo.jpg" alt="MacronCMS Host Logo" width="600" />
+</p>
+
 # MacronCMS Host — AI Master Prompt
 
 [![Rails 8.1+](https://img.shields.io/badge/rails-8.1%2B-red.svg)](https://rubyonrails.org)
